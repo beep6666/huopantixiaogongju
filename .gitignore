@@ -1,0 +1,17 @@
+*
+!.gitignore
+!README.md
+!package.json
+!index.html
+!styles.css
+!scripts/
+!scripts/**
+!src/
+!src/**
+!tests/
+!tests/**
+!data/
+!data/templates/
+!data/templates/**
+!docs/
+!docs/**
